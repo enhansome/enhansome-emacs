@@ -2,7 +2,7 @@
 
 * Awesome Emacs
   \[\[<https://github.com/sindresorhus/awesome][https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>]]
-  \[\[<https://github.com/emacs-tw/awesome-emacs/actions/workflows/main.yml][https://github.com/emacs-tw/awesome-emacs/actions/workflows/main.yml/badge.svg> ⭐ 9,359 | 🐛 37 | 📅 2026-05-13]]
+  \[\[<https://github.com/emacs-tw/awesome-emacs/actions/workflows/main.yml][https://github.com/emacs-tw/awesome-emacs/actions/workflows/main.yml/badge.svg> ⭐ 9,362 | 🐛 37 | 📅 2026-05-13]]
   \[\[<https://unlicense.org][https://upload.wikimedia.org/wikipedia/commons/e/ee/Unlicense_Blue_Badge.svg>]]
 
 \#+HTML:</div>
@@ -177,7 +177,7 @@ Use your favorite Linux package manager (e.g. apt, dnf, yum, pacman, etc) or bui
 Use \[\[<https://brew.sh][Homebrew>]] or \[\[<https://www.macports.org][MacPorts>]] to install emacs with a package manager. Also, consider \[\[<https://emacsformacosx.com][Emacs> for Mac OS X]], the Homebrew \[\[<https://github.com/d12frosted/homebrew-emacs-plus][Emacs> Plus]] formula for installation candidates and \[\[<https://github.com/jimeh/emacs-builds][Emacs> Builds]], a self-contained Emacs.app builds for macOS, with native-compilation support. The preinstalled version of emacs on a default macOS install is quite \[\[<https://apple.stackexchange.com/questions/229669/update-emacs-that-comes-with-os-x][old>]]. For an optimal emacs experience, upgrading to a newer version is highly recommended.
 
 \*\*\* Windows
-Emacs can be downloaded from the \[\[<http://ftp.gnu.org/gnu/emacs/windows/][GNU> FTP]] or a GNU mirror listed on the \[\[<https://www.gnu.org/software/emacs/download.html][GNU> Emacs Download & Installation page]], and/or using the \[\[<https://www.msys2.org][MSYS2>]] pacman manager. Another option is to install emacs via the \[\[<https://community.chocolatey.org/packages/Emacs][Chocolatey>]] or \[\[<https://github.com/ScoopInstaller/Extras/blob/master/bucket/emacs.json][scoop> ⭐ 2,136 | 🐛 808 | 🌐 PowerShell | 📅 2026-08-17]] Windows package managers. A default install of Windows does not contain emacs.
+Emacs can be downloaded from the \[\[<http://ftp.gnu.org/gnu/emacs/windows/][GNU> FTP]] or a GNU mirror listed on the \[\[<https://www.gnu.org/software/emacs/download.html][GNU> Emacs Download & Installation page]], and/or using the \[\[<https://www.msys2.org][MSYS2>]] pacman manager. Another option is to install emacs via the \[\[<https://community.chocolatey.org/packages/Emacs][Chocolatey>]] or \[\[<https://github.com/ScoopInstaller/Extras/blob/master/bucket/emacs.json][scoop> ⭐ 2,137 | 🐛 808 | 🌐 PowerShell | 📅 2026-08-18]] Windows package managers. A default install of Windows does not contain emacs.
 
 \*\*\* Alternative
 The following resources can be used to build emacs in various environments-- e.g. containerized \[\[<https://www.docker.com][docker>]] builds, \[\[<https://en.wikipedia.org/wiki/Continuous_integration][continuous> integration]], building various versions of emacs, etc.
@@ -359,7 +359,7 @@ Tools or libraries specially focused on fuzzy searching in list, mostly for mini
 
 \*\* Editing Enhancement
 
-* \[\[<https://github.com/kickingvegas/casual/blob/main/docs/editkit.org][Casual> ⭐ 351 | 🐛 37 | 🌐 Emacs Lisp | 📅 2026-08-17 EditKit]] - a Transient user interface library for Emacs editing commands. Included in \[\[<https://github.com/kickingvegas/casual][Casual>]].
+* \[\[<https://github.com/kickingvegas/casual/blob/main/docs/editkit.org][Casual> ⭐ 351 | 🐛 36 | 🌐 Emacs Lisp | 📅 2026-08-18 EditKit]] - a Transient user interface library for Emacs editing commands. Included in \[\[<https://github.com/kickingvegas/casual][Casual>]].
 * \[\[<https://github.com/magnars/multifiles.el][multifiles.el>]] - View and edit parts of multiple files in one buffer.
 * \[\[<https://github.com/phillord/lentic][lentic>]] -  Create views of the same content in two Emacs buffers.
 * \[\[<http://www.lysator.liu.se/~tab/artist/][artist-mode>]] - =\[built-in]= Draw ASCII lines, squares, rectangles and poly-lines, ellipses, and circles with your mouse and/or keyboard.
@@ -496,7 +496,7 @@ Tools or libraries specially focused on fuzzy searching in list, mostly for mini
 
 \*\* Programming
 
-* \[\[<https://github.com/kickingvegas/casual/blog/main/docs/re-builder.org][Casual> ⭐ 351 | 🐛 37 | 🌐 Emacs Lisp | 📅 2026-08-17 RE-Builder]] - a Transient user interface for RE-Builder, the built-in Elisp regular expression tool. Included in \[\[<https://github.com/kickingvegas/casual][Casual>]].
+* \[\[<https://github.com/kickingvegas/casual/blog/main/docs/re-builder.org][Casual> ⭐ 351 | 🐛 36 | 🌐 Emacs Lisp | 📅 2026-08-18 RE-Builder]] - a Transient user interface for RE-Builder, the built-in Elisp regular expression tool. Included in \[\[<https://github.com/kickingvegas/casual][Casual>]].
 * \[\[<https://cedet.sourceforge.net/][CEDET>]] - =\[built-in]= an advanced development environment in Emacs.
 * \[\[<https://www.gnu.org/software/emacs/manual/html_node/elisp/Language-Grammar.html][treesit.el>]] - =\[built-in]= tree-sitter utilities.
 * \[\[<https://github.com/emacs-tree-sitter/elisp-tree-sitter][tree-sitter.el>]] - Incremental parsing system.
@@ -597,9 +597,9 @@ Tools or libraries specially focused on fuzzy searching in list, mostly for mini
 
 \*\* File Manager
 
-* \[\[<https://github.com/kickingvegas/casual/blob/main/docs/ibuffer.org][Casual> ⭐ 351 | 🐛 37 | 🌐 Emacs Lisp | 📅 2026-08-17 IBuffer]] - a Transient user interface for IBuffer, a major mode for viewing and managing Emacs buffers. Included in \[\[<https://github.com/kickingvegas/casual][Casual>]].
+* \[\[<https://github.com/kickingvegas/casual/blob/main/docs/ibuffer.org][Casual> ⭐ 351 | 🐛 36 | 🌐 Emacs Lisp | 📅 2026-08-18 IBuffer]] - a Transient user interface for IBuffer, a major mode for viewing and managing Emacs buffers. Included in \[\[<https://github.com/kickingvegas/casual][Casual>]].
 * \[\[<https://www.emacswiki.org/emacs/DiredMode][Dired>]] - =\[built-in]= *Dir* ectory *Ed* itor. A customizable great file manager.
-  * \[\[<https://github.com/kickingvegas/casual/blob/main/docs/dired.org][Casual> ⭐ 351 | 🐛 37 | 🌐 Emacs Lisp | 📅 2026-08-17 Dired]] - a Transient user interface for the Dired file manager. Included in \[\[<https://github.com/kickingvegas/casual][Casual>]].
+  * \[\[<https://github.com/kickingvegas/casual/blob/main/docs/dired.org][Casual> ⭐ 351 | 🐛 36 | 🌐 Emacs Lisp | 📅 2026-08-18 Dired]] - a Transient user interface for the Dired file manager. Included in \[\[<https://github.com/kickingvegas/casual][Casual>]].
   * \[\[<https://github.com/alexluigit/dirvish][Dirvish>]] - A polished Dired bundled with useful extensions.
   * \[\[<https://www.emacswiki.org/emacs/DiredPlus][Dired+>]] - Functional & interface extensions for Dired.
   * \[\[<https://github.com/Fuco1/dired-hacks][dired-hacks>]] - Collection of useful Dired additions.
@@ -1459,7 +1459,7 @@ The above list contains some of the most popular/installed themes. You can also 
 
 \*\* Finance
 
-* \[\[<https://github.com/kickingvegas/casual/blob/main/docs/calc.org][Casual> ⭐ 351 | 🐛 37 | 🌐 Emacs Lisp | 📅 2026-08-17 Calc]] - a Transient user interface for Calc. Included in \[\[<https://github.com/kickingvegas/casual][Casual>]].
+* \[\[<https://github.com/kickingvegas/casual/blob/main/docs/calc.org][Casual> ⭐ 351 | 🐛 36 | 🌐 Emacs Lisp | 📅 2026-08-18 Calc]] - a Transient user interface for Calc. Included in \[\[<https://github.com/kickingvegas/casual][Casual>]].
 * \[\[<https://github.com/ledger/ledger-mode][ledger-mode>]] - Plain text double-entry accounting in Emacs with \[\[<https://ledger-cli.org/][ledger>]].
 * \[\[<https://github.com/narendraj9/hledger-mode][hledger-mode>]] - A mode for writing \[\[<https://hledger.org/][hledger>]] journals with a set of useful reports.
 
@@ -1598,4 +1598,4 @@ To the extent possible under law, \[\[<https://github.com/emacs-tw][emacs.tw>]] 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
