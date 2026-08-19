@@ -1,8 +1,128 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "*** Window & Frame Management #+begin_quote The window & frame system of Emacs itself, NOT the window system of OS (See \"[[#operating-system][Operating System]]\"). #+end_quote\n**** Font\n**** Layout\n**** Switching\n*** Tabbar\n*** Navigation\n*** Key-bindings #+BEGIN_QUOTE Possibly help prevent keyboard-related repetitive strain injury (RSI) from occurring. #+END_QUOTE - [[https://github.com/emacs-evil/evil][Evil]] - An e xtensible vi l ayer: manipulate Emacs with Vi key binding. - [[https://github.com/emacs-evil/evil-collection][Evil Collection]] - A collection of Evil bindings. - [[https://github.com/emacs-evil/evil-ediff][Evil Ediff]] - Evil bindings for Ediff. - [[https://github.com/emacs-evil/evil-magit][Evil Magit]] - Evil bindings for Magit. - [[https://github.com/JorisE/evil-mu4e][Evil mu4e]] - Evil bindings for mu4e. - [[https://github.com/noctuid/lispyville][LispyVille]] - Evil bindings for lispy-mode. - [[https://github.com/abo-abo/hydra][Hydra]] - Make bindings that stick around. - [[https://github.com/emacsorphanage/god-mode][god-mode]] - Global minor mode for entering Emacs commands without modifier keys. - [[https://github.com/meow-edit/meow][meow]] - Yet another modal editing on Emacs. - [[https://github.com/mrkkrp/modalka][modalka]] - Introduce native modal editing of your own design. - [[https://github.com/Kungsgeten/ryo-modal][ryo-modal]] - Inspired by modalka, ryo-modal provides useful features for creating your own modal editing environment. - [[https://gitlab.com/matsievskiysv/multistate][multistate]] - Use Evil-like binding states without predefined keybindings (Evil mode without vi). - [[https://github.com/xahlee/xah-fly-keys][xah-fly-keys]] - A modal keybinding for emacs (like vim), but based on command frequency and ergonomics. - [[https://github.com/ergoemacs/ergoemacs-mode][ergoemacs-mode]] - Global minor mode to use both common interface keys and ergonomic keys for emacs. - [[https://github.com/noctuid/general.el][general]] - A convenient, unified interface for key definitions - like use-package but for key-bindings. - [[https://github.com/susam/devil][devil]] - Non-modal way to enter Emacs commands without modifier keys, using the comma.\n*** Minibuffer\n**** Fuzzy & Narrowing #+begin_quote Tools or libraries specially focused on fuzzy searching in list, mostly for minibuffer. #+end_quote\n*** Mode-line\n*** Dim Distracting\n** Editing Enhancement\n*** Indentation Enhancement\n*** Symbols / Tokens\n*** Whitespaces Enhancement\n*** Delete Enhancement\n*** Fancy Icons\n*** Massive Edit\n*** Quotes & Parenthesis & Delimiters Handling\n**** Insert & Edit\n**** Select\n**** Highlight\n*** Kill-ring / Clipboard\n*** Drag Lines\n*** Undo & Redo\n*** Multiple Major-Mode\n*** Snippet\n*** Text Conversion\n** Programming\n*** Completion\n*** Jump to Definition / Tagging\n*** LSP Client\n*** Debugging\n*** Error Checking\n*** Document\n*** Code Folding\n*** Compiling\n** Project management\n** File Manager\n** Programming Language\n*** C/C++ - [[https://cc-mode.sourceforge.net/][CC Mode]] - =[built-in]= An Emacs and XEmacs mode for editing C and other languages with similar syntax. - [[https://github.com/Andersbakken/rtags][rtags]] - A C/C++ client/server indexer with for integration with emacs based on clang. - [[https://github.com/emacs-lsp/emacs-ccls][emacs-ccls]] - Emacs client of [[https://github.com/MaskRay/ccls][ccls]], a C/C++/Objective-C language server powered by clang. - [[https://github.com/cquery-project/emacs-cquery][emacs-cquery]] - Emacs client of [[https://github.com/jacobdufault/cquery][cquery]], a C/C++/Objective-C language server powered by clang. - [[https://github.com/Sarcasm/irony-mode][irony-mode]] - A C/C++ minor mode for Emacs powered by libclang. - [[https://github.com/Lindydancer/cmake-font-lock][cmake-font-lock]] - Enhanced font-lock rules for CMake. - [[https://github.com/abo-abo/function-args][function-args]] - visual CEDET enhancements for C++. - [[https://www.gnu.org/software/emacs/manual/html_node/ebrowse/index.html][Ebrowse]] - =[built-in]= A C++ class browser. - [[https://github.com/atilaneves/cmake-ide/][cmake-ide]] - Configures other packages to consider compile options like include paths from cmake projects to improve e.g. autocompletion. - [[https://github.com/emacsmirror/clang-format][clang-format]] - An interface to clang-format for Emacs, provides C/C++ code formatting functionality. - [[https://github.com/mkcms/compiler-explorer.el][compiler-explorer]] - A client for [[https://godbolt.org][compiler-explorer]]\n*** Python\n*** Ruby\n*** Lisp Family\n**** Common Lisp\n**** Scheme\n**** Racket\n**** Clojure\n**** Emacs Lisp - [[https://github.com/emacs-elsa/Elsa][Elsa]] - Emacs Lisp Static Analyzer and gradual type system. - [[https://github.com/elisp-lsp/ellsp][ellsp]] - Elisp Language Server. - [[https://github.com/Fanael/highlight-defined][highlight-defined]] - Highlight defined functions' / variables' name. - [[https://www.emacswiki.org/emacs/InferiorEmacsLispMode][ielm]] - =[built-in]= A simple Emacs Lisp REPL. - [[https://github.com/Silex/elmacro][elmacro]] - Display keyboard macros or latest interactive commands as Emacs Lisp. - [[https://github.com/Wilfred/suggest.el][suggest.el]] - Discover elisp functions that do what you want. - [[https://github.com/cpitclaudel/easy-escape][easy-escape]] - Improve readability of escape characters in ELisp regular expressions. - [[https://github.com/xiongtx/eros][eros]] - Evaluation Result OverlayS for Emacs Lisp. - [[https://codeberg.org/ideasman42/emacs-elisp-autofmt][elisp-autofmt]] - Auto-format ELisp (with support for formatting the buffer on save).\n*** Web Development\n**** JavaScript\n***** CoffeeScript\n***** TypeScript\n***** PureScript\n**** PHP\n*** Java\n*** Go\n*** C#\n*** Rust\n*** Erlang\n*** Elixir\n*** Haskell\n#+BEGIN_QUOTE External Guides:\n*** Swift\n*** Scala\n*** Lua\n*** Makefile\n*** SML\n*** Gdscript\n*** Groovy\n*** Kotlin\n*** R\n*** Julia\n*** OCaml\n*** ReasonML\n*** Mint\n*** Nim\n*** D\n*** Raku\n*** Elm\n*** Stan\n*** MIPS Assembly\n*** RISC-V Assembly\n*** Verilog/SystemVerilog\n*** VHDL\n*** LAMMPS\n*** Ada\n*** Zig\n** AI\n*** Code Completion\n*** ChatGPT\n*** AI assistant programming\n** Session management\n** Keys Cheat Sheet\n** Note\n*** Org-mode\n** Version control\n#+BEGIN_QUOTE For additional git-related emacs packages to use or to get inspiration from, take a look at the following resource: [[https://github.com/tarsius-legacy/git-elisp-overview]]. #+END_QUOTE\n** Integration\n*** Console\n*** Operating System - [[https://github.com/ch11ng/exwm][EXWM]] - EXWM turns Emacs into a full-featured tiling X window manager. - [[https://github.com/emacs-helm/helm-exwm][Helm-EXWM]] - EXWM-specific sources for Helm together with an application launchers and switches. - [[https://github.com/sinic/ednc/][EDNC]] - Manage all your desktop notifications without leaving Emacs. - [[https://depp.brause.cc/eyebrowse/][Eyebrowse]] - A simple-minded way of managing window configs in emacs. - [[https://github.com/emacs-eaf/emacs-application-framework][Emacs Application Framework]] - EAF's extensibility allows one to interact with [[https://riverbankcomputing.com/software/pyqt/intro][PyQt]] GUI applications, so that one can develop any PyQt application and integrate it into Emacs (e.g. web browser, video player, camera, rss reader, etc). - [[https://github.com/zk-phi/symon/][Symon]] - Tiny graphical system monitor. - [[https://github.com/iqbalansari/restart-emacs][restart-emacs]] - A simple emacs package to restart emacs from within emacs. - [[https://github.com/emacs-helm/helm-system-packages][Helm System Packages]] - A Helm interface to the package manager of your operating system. - [[https://gitlab.com/jabranham/system-packages][system-packages]] - Manage your installed packages with emacs. - [[https://github.com/jcaw/theme-magic][theme-magic]] - Apply your Emacs theme to the rest of Linux. - [[https://github.com/benmaughan/spotlight.el][spotlight]] - Emacs package to query macOS Spotlight. - [[https://github.com/raghavgautam/osx-lib][osx-lib]] - Emacs functions for macOS.\n*** Search\n**** Ack\n**** Ag\n**** Pt\n**** Sift\n**** Ripgrep\n*** Pastebin\n*** Google\n*** Blog System\n** Markdown\n** LaTeX\n** PDF\n** Internet\n*** Browser\n*** Mail\n*** IRC\n*** Chat\n*** Social Network\n*** Web Feed\n*** FTP - [[https://www.emacswiki.org/emacs/AngeFtp][AngeFTP]] - FTP client for Emacs. *** Torrent - [[https://github.com/skangas/mentor][mentor]] - GNU Emacs frontend for the rTorrent bittorrent client.\n** DevOps\n** Package Management\n*** Package Manager\n*** Package Configuration\n*** Package Updates\n** Config Management\n** Theme\n#+BEGIN_QUOTE The above list contains some of the most popular/installed themes. You can also take a look at [[https://pawelbx.github.io/emacs-theme-gallery/][GNU Emacs Themes Gallery]] for screenshots of almost all available Emacs themes. #+END_QUOTE\n** Multimedia\n** Finance\n** Fun\n** Music\n** Screencasting\n** Starter Kit\n#+BEGIN_QUOTE\n** Tutorials\n** Links and resources\nYour contributions are always welcome! Please submit a pull request or create an issue to add a new package, library, or software to the list.\nBefore contributing, please read this tiny guideline:\n** The Order of Items\nPlease don't rearrange the package ordering without any reason! The items should be sorted by its popularity ( /roughly, because it's impossible to have a precise standard./ e.g. most people would use it; recommended for every newbie...), instead of your personal preference.\nFor example, =Evil= is obviously not a package that every Emacser needs. So please don't move it to the top of its category.\nIn contrast, if you think a package is recommended for every Emacser (especially for a newbie), just place it at a higher place in the list.\n** Emacs Built-In Packages If a package is available in the latest version of Emacs, please remember to add a =[built-in]= tag in the front of the description.\n** Generate \"Table of Contents\"\nIt is recommended to install [[https://melpa.org/#/toc-org][toc-org]] which will update the Table Of Contents for you automatically on each save. It will also give you convenient navigation - if you press =C-c C-o= (=org-open-at-point=) when the point is on the entry in the Table Of Contents, you will jump to the respective section.\nIf for some reason, you don't want to install it, you can download a single file [[https://github.com/snosov1/toc-org/blob/master/toc-org.el][toc-org.el]] manually, open it, and call =M-x eval-buffer=.\nThen change buffers to =README.org=. Subsequently, issue =M-x toc-org-insert-toc= within the =README.org= buffer. If a new category of packages has been added in your commit, the Table of Contents section will be revised and updated.\nA curated list of awesome lists can be found at [[https://awesome.re][awesome.re]].\n[[https://creativecommons.org/publicdomain/zero/1.0/][https://licensebuttons.net/p/zero/1.0/88x31.png]]\nTo the extent possible under law, [[https://github.com/emacs-tw][emacs.tw]] has waived all copyright and related or neighboring rights to this work.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[[https://github.com/kickingvegas/casual/blob/main/docs/editkit.org][Casual",
+          "description": "EditKit]] - a Transient user interface library for Emacs editing commands. Included in [[https://github.com/kickingvegas/casual][Casual]].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 873245497,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-18T05:26:36Z",
+            "owner": "kickingvegas",
+            "repo": "casual",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[[https://github.com/kickingvegas/casual/blog/main/docs/re-builder.org][Casual",
+          "description": "RE-Builder]] - a Transient user interface for RE-Builder, the built-in Elisp regular expression tool. Included in [[https://github.com/kickingvegas/casual][Casual]].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 873245497,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-18T05:26:36Z",
+            "owner": "kickingvegas",
+            "repo": "casual",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[[https://github.com/kickingvegas/casual/blob/main/docs/ibuffer.org][Casual",
+          "description": "IBuffer]] - a Transient user interface for IBuffer, a major mode for viewing and managing Emacs buffers. Included in [[https://github.com/kickingvegas/casual][Casual]].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 873245497,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-18T05:26:36Z",
+            "owner": "kickingvegas",
+            "repo": "casual",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "[[https://www.emacswiki.org/emacs/DiredMode][Dired",
+          "description": "]] - =[built-in]= Dir ectory Ed itor. A customizable great file manager.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[[https://github.com/kickingvegas/casual/blob/main/docs/dired.org][Casual",
+              "description": "Dired]] - a Transient user interface for the Dired file manager. Included in [[https://github.com/kickingvegas/casual][Casual]].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 873245497,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-08-18T05:26:36Z",
+                "owner": "kickingvegas",
+                "repo": "casual",
+                "stars": 351
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "[[https://github.com/dbrock/bongo/][Bongo",
+          "description": "]] - A flexible and usable media player for GNU Emacs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 927145,
+            "language": "Emacs Lisp",
+            "last_commit": "2023-12-20T13:05:45Z",
+            "owner": "dbrock",
+            "repo": "bongo",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[[https://github.com/kickingvegas/casual/blob/main/docs/calc.org][Casual",
+          "description": "Calc]] - a Transient user interface for Calc. Included in [[https://github.com/kickingvegas/casual][Casual]].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 873245497,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-18T05:26:36Z",
+            "owner": "kickingvegas",
+            "repo": "casual",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[[https://github.com/mjago/Emacs/tree/master/lilypond][lilypond-mode",
+          "description": "]] - default emacs mode for [[http://lilypond.org/][lilypond]] editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1226578,
+            "language": "Emacs Lisp",
+            "last_commit": "2013-03-28T16:38:56Z",
+            "owner": "mjago",
+            "repo": "Emacs",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "related with file's content."
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T20:46:17.508Z",
+    "last_updated": "2026-08-19T12:25:45.887Z",
     "original_repository": "emacs-tw/awesome-emacs",
+    "original_repository_id": 22493222,
     "original_repository_sha": "d56acc65a8db1e7a0061b5486afabda717e7f9b8",
     "enhanced_repository": "enhansome/enhansome-emacs",
     "enhanced_repository_description": null,
