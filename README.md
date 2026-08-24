@@ -1523,7 +1523,7 @@ The above list contains some of the most popular/installed themes. You can also 
 
 \#+BEGIN\_QUOTE
 
-* In addition, for an excellent selection of personal .emacs.d configurations, take a look at \[\[<https://github.com/caisah/emacs.dz> ⭐ 1,549 | 🐛 3 | 📅 2026-06-24]].
+* In addition, for an excellent selection of personal .emacs.d configurations, take a look at \[\[<https://github.com/caisah/emacs.dz> ⭐ 1,550 | 🐛 3 | 📅 2026-06-24]].
   \#+END\_QUOTE
 
 \*\* Tutorials
