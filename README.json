@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.",
+            "homepage": "https://kickingvegas.github.io/casual/",
             "id": 873245497,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T22:16:24Z",
+            "open_issues": 40,
             "owner": "kickingvegas",
             "repo": "casual",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.",
+            "homepage": "https://kickingvegas.github.io/casual/",
             "id": 873245497,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T22:16:24Z",
+            "open_issues": 40,
             "owner": "kickingvegas",
             "repo": "casual",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.",
+            "homepage": "https://kickingvegas.github.io/casual/",
             "id": 873245497,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T22:16:24Z",
+            "open_issues": 40,
             "owner": "kickingvegas",
             "repo": "casual",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
         },
@@ -63,12 +78,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.",
+                "homepage": "https://kickingvegas.github.io/casual/",
                 "id": 873245497,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T22:16:24Z",
+                "open_issues": 40,
                 "owner": "kickingvegas",
                 "repo": "casual",
-                "stars": 350
+                "stars": 350,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:26.852Z"
             }
@@ -81,12 +101,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial on setting up Emacs to do Haskell programming",
+            "homepage": null,
             "id": 22646794,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2017-03-14T19:52:45Z",
+            "open_issues": 6,
             "owner": "serras",
             "repo": "emacs-haskell-tutorial",
-            "stars": 690
+            "stars": 690,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
         },
@@ -97,12 +122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Play music with GNU Emacs",
+            "homepage": "http://www.emacswiki.org/emacs/Bongo",
             "id": 927145,
             "language": "Emacs Lisp",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-20T13:05:45Z",
+            "open_issues": 21,
             "owner": "dbrock",
             "repo": "bongo",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
         },
@@ -113,12 +143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.",
+            "homepage": "https://kickingvegas.github.io/casual/",
             "id": 873245497,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T22:16:24Z",
+            "open_issues": 40,
             "owner": "kickingvegas",
             "repo": "casual",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
         },
@@ -129,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Emacs configuration",
+            "homepage": "https://github.com/mjago/Emacs/blob/master/init.org",
             "id": 1226578,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2013-03-28T16:38:56Z",
+            "open_issues": 0,
             "owner": "mjago",
             "repo": "Emacs",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
         },
@@ -145,12 +185,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome emacs config files",
+            "homepage": null,
             "id": 71278156,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-24T10:18:25Z",
+            "open_issues": 3,
             "owner": "caisah",
             "repo": "emacs.dz",
-            "stars": 1552
+            "stars": 1552,
+            "topics": [
+              "awesome",
+              "configuration",
+              "dotfile",
+              "emacs",
+              "emacs-configuration",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
         }
@@ -159,15 +211,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:51:44.016Z",
+    "last_updated": "2026-08-29T04:15:56.301Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A community driven list of useful Emacs packages, libraries and other items.",
+      "homepage": null,
       "id": 22493222,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2026-08-28T19:15:40Z",
+      "open_issues": 36,
       "owner": "emacs-tw",
       "repo": "awesome-emacs",
-      "stars": 9371
+      "stars": 9371,
+      "topics": [
+        "awesome-list",
+        "emacs"
+      ]
     },
     "original_repository_sha": "0dc14d9dca4e8a2259f21052bcd516338cdeb132",
     "enhanced_repository": "enhansome/enhansome-emacs",
