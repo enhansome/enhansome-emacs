@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:42:05.453Z",
+    "last_updated": "2026-09-02T22:44:11.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful Emacs packages, libraries and other items.",
@@ -219,17 +219,17 @@
       "id": 22493222,
       "language": null,
       "license": "Unlicense",
-      "last_commit": "2026-08-28T19:15:40Z",
-      "open_issues": 37,
+      "last_commit": "2026-09-02T15:57:43Z",
+      "open_issues": 34,
       "owner": "emacs-tw",
       "repo": "awesome-emacs",
-      "stars": 9369,
+      "stars": 9370,
       "topics": [
         "awesome-list",
         "emacs"
       ]
     },
-    "original_repository_sha": "0dc14d9dca4e8a2259f21052bcd516338cdeb132",
+    "original_repository_sha": "2c6bd80d099491bc259444e3c9eab3029ce0f0d6",
     "enhanced_repository": "enhansome/enhansome-emacs",
     "enhanced_repository_description": null,
     "title": "Awesome ATTENTION IF YOU ARE CONTRIBUTOR: This parent category \"Interface with stars"
