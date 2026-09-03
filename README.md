@@ -1,8 +1,8 @@
-\#+HTML:<div align=center>[<img alt="Emacs Logo" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,370 | 🐛 34 | 📅 2026-09-02
+\#+HTML:<div align=center>[<img alt="Emacs Logo" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,371 | 🐛 34 | 📅 2026-09-02
 
 * Awesome Emacs
   \[\[<https://github.com/sindresorhus/awesome][https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>]]
-  \[\[<https://github.com/emacs-tw/awesome-emacs/actions/workflows/main.yml][https://github.com/emacs-tw/awesome-emacs/actions/workflows/main.yml/badge.svg> ⭐ 9,370 | 🐛 34 | 📅 2026-09-02]]
+  \[\[<https://github.com/emacs-tw/awesome-emacs/actions/workflows/main.yml][https://github.com/emacs-tw/awesome-emacs/actions/workflows/main.yml/badge.svg> ⭐ 9,371 | 🐛 34 | 📅 2026-09-02]]
   \[\[<https://unlicense.org][https://upload.wikimedia.org/wikipedia/commons/e/ee/Unlicense_Blue_Badge.svg>]]
 
 \#+HTML:</div>
@@ -177,7 +177,7 @@ Use your favorite Linux package manager (e.g. apt, dnf, yum, pacman, etc) or bui
 Use \[\[<https://brew.sh][Homebrew>]] or \[\[<https://www.macports.org][MacPorts>]] to install emacs with a package manager. Also, consider \[\[<https://emacsformacosx.com][Emacs> for Mac OS X]], the Homebrew \[\[<https://github.com/d12frosted/homebrew-emacs-plus][Emacs> Plus]] formula for installation candidates and \[\[<https://github.com/jimeh/emacs-builds][Emacs> Builds]], a self-contained Emacs.app builds for macOS, with native-compilation support. The preinstalled version of emacs on a default macOS install is quite \[\[<https://apple.stackexchange.com/questions/229669/update-emacs-that-comes-with-os-x][old>]]. For an optimal emacs experience, upgrading to a newer version is highly recommended.
 
 \*\*\* Windows
-Emacs can be downloaded from the \[\[<http://ftp.gnu.org/gnu/emacs/windows/][GNU> FTP]] or a GNU mirror listed on the \[\[<https://www.gnu.org/software/emacs/download.html][GNU> Emacs Download & Installation page]], and/or using the \[\[<https://www.msys2.org][MSYS2>]] pacman manager. Another option is to install emacs via the \[\[<https://community.chocolatey.org/packages/Emacs][Chocolatey>]] or \[\[<https://github.com/ScoopInstaller/Extras/blob/master/bucket/emacs.json][scoop> ⭐ 2,148 | 🐛 807 | 🌐 PowerShell | 📅 2026-09-02]] Windows package managers. A default install of Windows does not contain emacs.
+Emacs can be downloaded from the \[\[<http://ftp.gnu.org/gnu/emacs/windows/][GNU> FTP]] or a GNU mirror listed on the \[\[<https://www.gnu.org/software/emacs/download.html][GNU> Emacs Download & Installation page]], and/or using the \[\[<https://www.msys2.org][MSYS2>]] pacman manager. Another option is to install emacs via the \[\[<https://community.chocolatey.org/packages/Emacs][Chocolatey>]] or \[\[<https://github.com/ScoopInstaller/Extras/blob/master/bucket/emacs.json][scoop> ⭐ 2,149 | 🐛 812 | 🌐 PowerShell | 📅 2026-09-03]] Windows package managers. A default install of Windows does not contain emacs.
 
 \*\*\* Alternative
 The following resources can be used to build emacs in various environments-- e.g. containerized \[\[<https://www.docker.com][docker>]] builds, \[\[<https://en.wikipedia.org/wiki/Continuous_integration][continuous> integration]], building various versions of emacs, etc.
@@ -1528,7 +1528,7 @@ The above list contains some of the most popular/installed themes. You can also 
 
 \#+BEGIN\_QUOTE
 
-* In addition, for an excellent selection of personal .emacs.d configurations, take a look at \[\[<https://github.com/caisah/emacs.dz> ⭐ 1,551 | 🐛 3 | 📅 2026-06-24]].
+* In addition, for an excellent selection of personal .emacs.d configurations, take a look at \[\[<https://github.com/caisah/emacs.dz> ⭐ 1,552 | 🐛 3 | 📅 2026-06-24]].
   \#+END\_QUOTE
 
 \*\* Tutorials
@@ -1603,4 +1603,4 @@ To the extent possible under law, \[\[<https://github.com/emacs-tw][emacs.tw>]] 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
