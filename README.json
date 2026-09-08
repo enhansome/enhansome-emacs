@@ -110,7 +110,7 @@
             "open_issues": 6,
             "owner": "serras",
             "repo": "emacs-haskell-tutorial",
-            "stars": 688,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
@@ -190,11 +190,11 @@
             "id": 71278156,
             "language": null,
             "license": null,
-            "last_commit": "2026-06-24T10:18:25Z",
+            "last_commit": "2026-09-08T10:23:12Z",
             "open_issues": 3,
             "owner": "caisah",
             "repo": "emacs.dz",
-            "stars": 1552,
+            "stars": 1551,
             "topics": [
               "awesome",
               "configuration",
@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:54:50.241Z",
+    "last_updated": "2026-09-08T22:48:49.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful Emacs packages, libraries and other items.",
@@ -223,7 +223,7 @@
       "open_issues": 34,
       "owner": "emacs-tw",
       "repo": "awesome-emacs",
-      "stars": 9373,
+      "stars": 9374,
       "topics": [
         "awesome-list",
         "emacs"
