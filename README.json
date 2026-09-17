@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:05:09.871Z",
+    "last_updated": "2026-09-17T22:56:58.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful Emacs packages, libraries and other items.",
@@ -223,7 +223,7 @@
       "open_issues": 34,
       "owner": "emacs-tw",
       "repo": "awesome-emacs",
-      "stars": 9371,
+      "stars": 9372,
       "topics": [
         "awesome-list",
         "emacs"
