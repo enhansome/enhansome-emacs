@@ -177,7 +177,7 @@ Use your favorite Linux package manager (e.g. apt, dnf, yum, pacman, etc) or bui
 Use \[\[<https://brew.sh][Homebrew>]] or \[\[<https://www.macports.org][MacPorts>]] to install emacs with a package manager. Also, consider \[\[<https://emacsformacosx.com][Emacs> for Mac OS X]], the Homebrew \[\[<https://github.com/d12frosted/homebrew-emacs-plus][Emacs> Plus]] formula for installation candidates and \[\[<https://github.com/jimeh/emacs-builds][Emacs> Builds]], a self-contained Emacs.app builds for macOS, with native-compilation support. The preinstalled version of emacs on a default macOS install is quite \[\[<https://apple.stackexchange.com/questions/229669/update-emacs-that-comes-with-os-x][old>]]. For an optimal emacs experience, upgrading to a newer version is highly recommended.
 
 \*\*\* Windows
-Emacs can be downloaded from the \[\[<http://ftp.gnu.org/gnu/emacs/windows/][GNU> FTP]] or a GNU mirror listed on the \[\[<https://www.gnu.org/software/emacs/download.html][GNU> Emacs Download & Installation page]], and/or using the \[\[<https://www.msys2.org][MSYS2>]] pacman manager. Another option is to install emacs via the \[\[<https://community.chocolatey.org/packages/Emacs][Chocolatey>]] or \[\[<https://github.com/ScoopInstaller/Extras/blob/master/bucket/emacs.json][scoop> ⭐ 2,154 | 🐛 815 | 🌐 PowerShell | 📅 2026-09-18]] Windows package managers. A default install of Windows does not contain emacs.
+Emacs can be downloaded from the \[\[<http://ftp.gnu.org/gnu/emacs/windows/][GNU> FTP]] or a GNU mirror listed on the \[\[<https://www.gnu.org/software/emacs/download.html][GNU> Emacs Download & Installation page]], and/or using the \[\[<https://www.msys2.org][MSYS2>]] pacman manager. Another option is to install emacs via the \[\[<https://community.chocolatey.org/packages/Emacs][Chocolatey>]] or \[\[<https://github.com/ScoopInstaller/Extras/blob/master/bucket/emacs.json][scoop> ⭐ 2,155 | 🐛 813 | 🌐 PowerShell | 📅 2026-09-19]] Windows package managers. A default install of Windows does not contain emacs.
 
 \*\*\* Alternative
 The following resources can be used to build emacs in various environments-- e.g. containerized \[\[<https://www.docker.com][docker>]] builds, \[\[<https://en.wikipedia.org/wiki/Continuous_integration][continuous> integration]], building various versions of emacs, etc.
@@ -629,7 +629,7 @@ Tools or libraries specially focused on fuzzy searching in list, mostly for mini
 \- \[\[<https://github.com/Lindydancer/cmake-font-lock][cmake-font-lock>]] - Enhanced font-lock rules for CMake.
 \- \[\[<https://github.com/abo-abo/function-args][function-args>]] - visual CEDET enhancements for C++.
 \- \[\[<https://www.gnu.org/software/emacs/manual/html_node/ebrowse/index.html][Ebrowse>]] - =\[built-in]= A C++ class browser.
-\- \[\[<https://github.com/atilaneves/cmake-ide/][cmake-ide> ⭐ 724 | 🐛 36 | 🌐 Emacs Lisp | 📅 2021-06-10]] - Configures other packages to consider compile options like include paths from cmake projects to improve e.g. autocompletion.
+\- \[\[<https://github.com/atilaneves/cmake-ide/][cmake-ide> ⭐ 723 | 🐛 36 | 🌐 Emacs Lisp | 📅 2021-06-10]] - Configures other packages to consider compile options like include paths from cmake projects to improve e.g. autocompletion.
 \- \[\[<https://github.com/emacsmirror/clang-format][clang-format>]] - An interface to clang-format for Emacs, provides C/C++ code formatting functionality.
 \- \[\[<https://github.com/mkcms/compiler-explorer.el][compiler-explorer>]] - A client for \[\[<https://godbolt.org][compiler-explorer>]]
 
@@ -1528,7 +1528,7 @@ The above list contains some of the most popular/installed themes. You can also 
 
 \#+BEGIN\_QUOTE
 
-* In addition, for an excellent selection of personal .emacs.d configurations, take a look at \[\[<https://github.com/caisah/emacs.dz> ⭐ 1,554 | 🐛 3 | 📅 2026-09-08]].
+* In addition, for an excellent selection of personal .emacs.d configurations, take a look at \[\[<https://github.com/caisah/emacs.dz> ⭐ 1,553 | 🐛 3 | 📅 2026-09-08]].
   \#+END\_QUOTE
 
 \*\* Tutorials
@@ -1603,4 +1603,4 @@ To the extent possible under law, \[\[<https://github.com/emacs-tw][emacs.tw>]] 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
