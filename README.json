@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "caisah",
             "repo": "emacs.dz",
-            "stars": 1553,
+            "stars": 1554,
             "topics": [
               "awesome",
               "configuration",
@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:34:28.643Z",
+    "last_updated": "2026-09-21T23:25:40.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful Emacs packages, libraries and other items.",
@@ -223,7 +223,7 @@
       "open_issues": 34,
       "owner": "emacs-tw",
       "repo": "awesome-emacs",
-      "stars": 9374,
+      "stars": 9376,
       "topics": [
         "awesome-list",
         "emacs"
