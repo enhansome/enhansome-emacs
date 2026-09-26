@@ -15,7 +15,7 @@
             "id": 873245497,
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T19:03:56Z",
+            "last_commit": "2026-09-26T18:11:16Z",
             "open_issues": 39,
             "owner": "kickingvegas",
             "repo": "casual",
@@ -36,7 +36,7 @@
             "id": 873245497,
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T19:03:56Z",
+            "last_commit": "2026-09-26T18:11:16Z",
             "open_issues": 39,
             "owner": "kickingvegas",
             "repo": "casual",
@@ -57,7 +57,7 @@
             "id": 873245497,
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T19:03:56Z",
+            "last_commit": "2026-09-26T18:11:16Z",
             "open_issues": 39,
             "owner": "kickingvegas",
             "repo": "casual",
@@ -83,7 +83,7 @@
                 "id": 873245497,
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T19:03:56Z",
+                "last_commit": "2026-09-26T18:11:16Z",
                 "open_issues": 39,
                 "owner": "kickingvegas",
                 "repo": "casual",
@@ -148,7 +148,7 @@
             "id": 873245497,
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T19:03:56Z",
+            "last_commit": "2026-09-26T18:11:16Z",
             "open_issues": 39,
             "owner": "kickingvegas",
             "repo": "casual",
@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "caisah",
             "repo": "emacs.dz",
-            "stars": 1556,
+            "stars": 1555,
             "topics": [
               "awesome",
               "configuration",
@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:22:08.679Z",
+    "last_updated": "2026-09-26T23:02:20.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful Emacs packages, libraries and other items.",
@@ -223,7 +223,7 @@
       "open_issues": 34,
       "owner": "emacs-tw",
       "repo": "awesome-emacs",
-      "stars": 9378,
+      "stars": 9379,
       "topics": [
         "awesome-list",
         "emacs"
