@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "kickingvegas",
             "repo": "casual",
-            "stars": 356,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
@@ -40,7 +40,7 @@
             "open_issues": 40,
             "owner": "kickingvegas",
             "repo": "casual",
-            "stars": 356,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
@@ -61,7 +61,7 @@
             "open_issues": 40,
             "owner": "kickingvegas",
             "repo": "casual",
-            "stars": 356,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
@@ -87,7 +87,7 @@
                 "open_issues": 40,
                 "owner": "kickingvegas",
                 "repo": "casual",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:26.852Z"
@@ -152,7 +152,7 @@
             "open_issues": 40,
             "owner": "kickingvegas",
             "repo": "casual",
-            "stars": 356,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:26.852Z"
@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "caisah",
             "repo": "emacs.dz",
-            "stars": 1559,
+            "stars": 1558,
             "topics": [
               "awesome",
               "configuration",
@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:57:41.424Z",
+    "last_updated": "2026-10-27T23:53:22.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful Emacs packages, libraries and other items.",
@@ -223,7 +223,7 @@
       "open_issues": 35,
       "owner": "emacs-tw",
       "repo": "awesome-emacs",
-      "stars": 9403,
+      "stars": 9402,
       "topics": [
         "awesome-list",
         "emacs"
