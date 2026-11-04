@@ -177,7 +177,7 @@ Use your favorite Linux package manager (e.g. apt, dnf, yum, pacman, etc) or bui
 Use \[\[<https://brew.sh][Homebrew>]] or \[\[<https://www.macports.org][MacPorts>]] to install emacs with a package manager. Also, consider \[\[<https://emacsformacosx.com][Emacs> for Mac OS X]], the Homebrew \[\[<https://github.com/d12frosted/homebrew-emacs-plus][Emacs> Plus]] formula for installation candidates and \[\[<https://github.com/jimeh/emacs-builds][Emacs> Builds]], a self-contained Emacs.app builds for macOS, with native-compilation support. The preinstalled version of emacs on a default macOS install is quite \[\[<https://apple.stackexchange.com/questions/229669/update-emacs-that-comes-with-os-x][old>]]. For an optimal emacs experience, upgrading to a newer version is highly recommended.
 
 \*\*\* Windows
-Emacs can be downloaded from the \[\[<http://ftp.gnu.org/gnu/emacs/windows/][GNU> FTP]] or a GNU mirror listed on the \[\[<https://www.gnu.org/software/emacs/download.html][GNU> Emacs Download & Installation page]], and/or using the \[\[<https://www.msys2.org][MSYS2>]] pacman manager. Another option is to install emacs via the \[\[<https://community.chocolatey.org/packages/Emacs][Chocolatey>]] or \[\[<https://github.com/ScoopInstaller/Extras/blob/master/bucket/emacs.json][scoop> ⭐ 2,170 | 🐛 847 | 🌐 PowerShell | 📅 2026-11-03]] Windows package managers. A default install of Windows does not contain emacs.
+Emacs can be downloaded from the \[\[<http://ftp.gnu.org/gnu/emacs/windows/][GNU> FTP]] or a GNU mirror listed on the \[\[<https://www.gnu.org/software/emacs/download.html][GNU> Emacs Download & Installation page]], and/or using the \[\[<https://www.msys2.org][MSYS2>]] pacman manager. Another option is to install emacs via the \[\[<https://community.chocolatey.org/packages/Emacs][Chocolatey>]] or \[\[<https://github.com/ScoopInstaller/Extras/blob/master/bucket/emacs.json][scoop> ⭐ 2,172 | 🐛 851 | 🌐 PowerShell | 📅 2026-11-04]] Windows package managers. A default install of Windows does not contain emacs.
 
 \*\*\* Alternative
 The following resources can be used to build emacs in various environments-- e.g. containerized \[\[<https://www.docker.com][docker>]] builds, \[\[<https://en.wikipedia.org/wiki/Continuous_integration][continuous> integration]], building various versions of emacs, etc.
@@ -1157,7 +1157,7 @@ For additional git-related emacs packages to use or to get inspiration from, tak
 \*\*\* Operating System
 \- \[\[<https://github.com/ch11ng/exwm][EXWM>]] - EXWM turns Emacs into a full-featured tiling X window manager.
 \- \[\[<https://github.com/emacs-helm/helm-exwm][Helm-EXWM>]] - EXWM-specific sources for Helm together with an application launchers and switches.
-\- \[\[<https://github.com/sinic/ednc/][EDNC> ⭐ 87 | 🐛 3 | 🌐 Emacs Lisp | 📅 2026-09-20]] - Manage all your desktop notifications without leaving Emacs.
+\- \[\[<https://github.com/sinic/ednc/][EDNC> ⭐ 88 | 🐛 3 | 🌐 Emacs Lisp | 📅 2026-09-20]] - Manage all your desktop notifications without leaving Emacs.
 \- \[\[<https://depp.brause.cc/eyebrowse/][Eyebrowse>]] - A simple-minded way of managing window configs in emacs.
 \- \[\[<https://github.com/emacs-eaf/emacs-application-framework][Emacs> Application Framework]] - EAF's extensibility allows one to interact with \[\[<https://riverbankcomputing.com/software/pyqt/intro][PyQt>]] GUI applications, so that one can develop any PyQt application and integrate it into Emacs (e.g. web browser, video player, camera, rss reader, etc).
 \- \[\[<https://github.com/zk-phi/symon/][Symon> ⭐ 303 | 🐛 11 | 🌐 Emacs Lisp | 📅 2026-04-11]] - Tiny graphical system monitor.
@@ -1603,4 +1603,4 @@ To the extent possible under law, \[\[<https://github.com/emacs-tw][emacs.tw>]] 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
