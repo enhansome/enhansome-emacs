@@ -190,7 +190,7 @@
             "id": 71278156,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-08T10:23:12Z",
+            "last_commit": "2026-11-15T08:51:06Z",
             "open_issues": 3,
             "owner": "caisah",
             "repo": "emacs.dz",
@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T23:59:53.261Z",
+    "last_updated": "2026-11-16T00:05:16.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful Emacs packages, libraries and other items.",
@@ -223,7 +223,7 @@
       "open_issues": 37,
       "owner": "emacs-tw",
       "repo": "awesome-emacs",
-      "stars": 9419,
+      "stars": 9420,
       "topics": [
         "awesome-list",
         "emacs"
