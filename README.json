@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T00:05:16.314Z",
+    "last_updated": "2026-11-17T03:00:43.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful Emacs packages, libraries and other items.",
@@ -220,7 +220,7 @@
       "language": null,
       "license": "Unlicense",
       "last_commit": "2026-09-02T15:57:43Z",
-      "open_issues": 37,
+      "open_issues": 38,
       "owner": "emacs-tw",
       "repo": "awesome-emacs",
       "stars": 9420,
